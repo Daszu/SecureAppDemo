@@ -72,7 +72,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
 
         }
@@ -85,7 +85,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -97,7 +97,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -109,7 +109,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -121,7 +121,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -133,7 +133,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -145,7 +145,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -157,7 +157,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -169,7 +169,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -181,7 +181,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
 
@@ -193,7 +193,7 @@ namespace Secure_Application_Demo
             }
             catch (Exception exc)
             {
-                MessageBox.Show(blokada);
+                throw exc;
             }
         }
     }

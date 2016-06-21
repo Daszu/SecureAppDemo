@@ -1,0 +1,11 @@
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Debug\Secure Application Demo.exe.config
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Debug\Secure Application Demo.exe
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Debug\Secure Application Demo.pdb
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Debug\Secure Library.dll
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Debug\Secure Library.pdb
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Debug\Secure_Application_Demo.Form1.resources
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Debug\Secure_Application_Demo.Form2.resources
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Debug\Secure_Application_Demo.Properties.Resources.resources
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Debug\Secure Application Demo.csproj.GenerateResource.Cache
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Debug\Secure Application Demo.exe
+c:\users\daszu\documents\visual studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Debug\Secure Application Demo.pdb

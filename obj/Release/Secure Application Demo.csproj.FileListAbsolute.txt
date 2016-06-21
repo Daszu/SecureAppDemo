@@ -1,0 +1,12 @@
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Release\Secure Application Demo.exe.config
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Release\Secure Application Demo.exe
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Release\Secure Application Demo.pdb
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Release\Secure Library.dll
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\bin\Release\Secure Library.pdb
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Release\Secure_Application_Demo.Form2.resources
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Release\Secure_Application_Demo.Properties.Resources.resources
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Release\Secure Application Demo.csproj.GenerateResource.Cache
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Release\Secure Application Demo.exe
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Release\Secure Application Demo.pdb
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Release\Secure Application Demo.csprojResolveAssemblyReference.cache
+C:\Users\Daszu\Documents\Visual Studio 2013\Projects\Secure Application Demo\Secure Application Demo\obj\Release\Secure_Application_Demo.Form1.resources
